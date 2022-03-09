@@ -1,0 +1,27 @@
+{
+  "name": "prueba-backend",
+  "version": "1.0.0",
+  "description": "Prueba de Zerviz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurt-plaza/prueba-zerviz.git"
+  },
+  "author": "David Plaza Iriarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurt-plaza/prueba-zerviz/issues"
+  },
+  "homepage": "https://github.com/kurt-plaza/prueba-zerviz#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "http": "^0.0.1-security",
+    "mongodb": "^4.4.1",
+    "node-schedule": "^2.1.0"
+  }
+}
